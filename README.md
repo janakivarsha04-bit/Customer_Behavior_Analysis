@@ -1,14 +1,18 @@
 🛍️ Customer Shopping Behavior Analysis
-📌 One-Line Summary
+
+📌 One-Line Summary:
+
 An end-to-end data analytics project focused on analyzing customer shopping behavior to uncover trends, purchasing patterns, and business insights using Python, MySQL, and Power BI.
 
-🔍 Overview
+🔍 Overview:
+
 This project analyzes customer shopping behavior data to understand customer preferences, spending habits, and product trends. The workflow includes data cleaning, Exploratory Data Analysis (EDA), SQL-based analysis, dashboard creation, and business reporting for data-driven decision-making.
 
-❓ Problem Statement
+❓ Problem Statement:
+
 Businesses often struggle to understand customer purchasing behavior and identify factors influencing sales performance. This project aims to analyze shopping patterns, customer preferences, and product trends to help improve business strategies and customer engagement.
 
-📁 Dataset
+📁 Dataset:
 The dataset contains customer shopping information such as:
 
 
@@ -32,7 +36,7 @@ Customer ratings and preferences
 
 The dataset was cleaned and transformed for accurate analysis and reporting.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 
 
 🐍 Python – Data cleaning & EDA
@@ -54,7 +58,7 @@ The dataset was cleaned and transformed for accurate analysis and reporting.
 
 
 
-⚙️ Methods
+⚙️ Methods:
 
 
 Data loading and preprocessing
@@ -79,7 +83,7 @@ Business reporting and presentation preparation
 
 
 
-📊 Key Insights Dashboard
+📊 Key Insights Dashboard:
 The Power BI dashboard includes:
 
 
@@ -102,7 +106,7 @@ The Power BI dashboard includes:
 
 
 
-▶️ How to Run This Project?
+▶️ How to Run This Project?:
 
 
 Download or clone the project files
@@ -127,10 +131,10 @@ Review the final report and PPT presentation
 
 
 
-🎯 Result & Conclusion
+🎯 Result & Conclusion:
 The project successfully identified customer shopping trends, popular product categories, and purchasing behaviors. The dashboard provides clear visual insights that support better business decisions and customer-focused strategies.
 
-🚀 Future Work
+🚀 Future Work:
 
 
 Implement predictive analytics for customer behavior
@@ -146,7 +150,8 @@ Improve customer segmentation analysis
 
 
 
-👩‍💻 Author & Contact
+👩‍💻 Author & Contact:
+
 Janaki Varshasree
 📧 janakivarsha04@gmail.com
 🔗 LinkedIn: linkedin.com/in/janakivarshasree
