@@ -16,22 +16,22 @@ Businesses often struggle to understand customer purchasing behavior and identif
 The dataset contains customer shopping information such as:
 
 
-Customer details
+1)Customer details
 
 
-Product categories
+2)Product categories
 
 
-Purchase amounts
+3)Purchase amounts
 
 
-Payment methods
+4)Payment methods
 
 
-Shopping frequency
+5)Shopping frequency
 
 
-Customer ratings and preferences
+6)Customer ratings and preferences
 
 
 The dataset was cleaned and transformed for accurate analysis and reporting.
@@ -61,25 +61,25 @@ The dataset was cleaned and transformed for accurate analysis and reporting.
 ⚙️ Methods:
 
 
-Data loading and preprocessing
+1)Data loading and preprocessing
 
 
-Handling missing and duplicate values
+2)Handling missing and duplicate values
 
 
-Exploratory Data Analysis (EDA)
+3)Exploratory Data Analysis (EDA)
 
 
-SQL queries for customer and sales analysis
+4)SQL queries for customer and sales analysis
 
 
-KPI creation and trend analysis
+5)KPI creation and trend analysis
 
 
-Dashboard development in Power BI
+6)Dashboard development in Power BI
 
 
-Business reporting and presentation preparation
+7)Business reporting and presentation preparation
 
 
 
@@ -106,28 +106,30 @@ The Power BI dashboard includes:
 
 
 
+
+
 ▶️ How to Run This Project?:
 
 
-Download or clone the project files
+1)Download or clone the project files
 
 
-Install required Python libraries
+2)Install required Python libraries
 
 
-Run the Python notebook/script for EDA & cleaning
+3)Run the Python notebook/script for EDA & cleaning
 
 
-Import cleaned data into MySQL
+4)Import cleaned data into MySQL
 
 
-Execute SQL queries for analysis
+5)Execute SQL queries for analysis
 
 
-Open the Power BI dashboard file
+6)Open the Power BI dashboard file
 
 
-Review the final report and PPT presentation
+7)Review the final report and PPT presentation
 
 
 
@@ -137,16 +139,16 @@ The project successfully identified customer shopping trends, popular product ca
 🚀 Future Work:
 
 
-Implement predictive analytics for customer behavior
+---> Implement predictive analytics for customer behavior
 
 
-Add machine learning models for sales forecasting
+---> Add machine learning models for sales forecasting
 
 
-Create real-time dashboards using live data
+---> Create real-time dashboards using live data
 
 
-Improve customer segmentation analysis
+---> Improve customer segmentation analysis
 
 
 
