@@ -1,10 +1,10 @@
-🔍 Overview
+🔍 Overview:
 This project demonstrates a complete Data Analytics workflow from raw data processing to business reporting and dashboard visualization. The project focuses on extracting meaningful insights using Python, MySQL, and Power BI through data cleaning, EDA, SQL analysis, and reporting.
 
-📁 Dataset
+📁 Dataset:
 The dataset contains structured business-related information used for analyzing trends, patterns, and KPIs. The data was cleaned and transformed to improve quality and analytical accuracy.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 
 
 🐍 Python – Data Cleaning & EDA
@@ -26,7 +26,10 @@ The dataset contains structured business-related information used for analyzing 
 
 
 
-⚙️ Project Workflow
+
+
+
+⚙️ Project Workflow:
 
 
 📥 Loaded dataset using Python
@@ -54,7 +57,8 @@ The dataset contains structured business-related information used for analyzing 
 
 
 
-📌 Dashboard Highlights
+
+📌 Dashboard Highlights:
 
 
 📍 KPI Cards for key metrics
@@ -73,7 +77,9 @@ The dataset contains structured business-related information used for analyzing 
 
 
 
-🎯 Results & Insights
+
+
+🎯 Results & Insights:
 The project helped uncover important business insights, trends, and performance patterns using visual analytics and SQL-based analysis. The dashboard supports data-driven decision-making with clear and interactive reports.
 
 ▶️ How to Run
